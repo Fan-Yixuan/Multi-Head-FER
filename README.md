@@ -1,4 +1,4 @@
-# Multi head FER: a 90.91 solution for RAF-DB
+# Multi head FER: a 90.97 solution for RAF-DB
 
 <img src="assets/model.png" width=100% height=100% 
 class="center">
